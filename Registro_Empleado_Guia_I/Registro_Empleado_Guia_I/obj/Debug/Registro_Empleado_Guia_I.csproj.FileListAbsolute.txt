@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\bin\Debug\Registro_Empleado_Guia_I.exe.config
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\bin\Debug\Registro_Empleado_Guia_I.exe
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\bin\Debug\Registro_Empleado_Guia_I.pdb
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\obj\Debug\Registro_Empleado_Guia_I.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\obj\Debug\Registro_Empleado_Guia_I.Form1.resources
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\obj\Debug\Registro_Empleado_Guia_I.Properties.Resources.resources
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\obj\Debug\Registro_Empleado_Guia_I.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\obj\Debug\Registro_Empleado_Guia_I.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\obj\Debug\Registro_Empleado_Guia_I.exe
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\obj\Debug\Registro_Empleado_Guia_I.pdb
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\obj\Debug\Registro_Empleado_Guia_I.Formularios.EmpleadoForm.resources
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hp\OneDrive\Documentos\Registro_Empleado_Guia_I\Registro_Empleado_Guia_I\obj\Debug\Registro.C522AB81.Up2Date
